@@ -1,0 +1,260 @@
+body{
+    background-color: rgb(93,100,98);
+}
+.main{
+    background-color: rgb(255,255,255);
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: auto;
+    height: auto;
+}
+.img1{
+    width: 250px;
+    height: 250px;
+    margin-top: 5px;
+}
+.img3{
+    width: 50px;
+    height: 50px;
+    margin-top: 0;
+}
+.img4{
+    width: 60px;
+    height: 60px;
+    margin-top: 0;
+}
+.img5{
+    width: 55px;
+    height: 55px;
+    margin-top: 0;
+}
+.img6{
+    width: 55px;
+    height: 55px;
+    margin-top: 0;
+}
+.img7{
+    width: 55px; 
+    height: 55px;
+    margin-top: 0;
+}
+.img8{
+    width: 55px;
+    height: 55px;
+    margin-top: 0;
+}
+.textname{
+    margin-top: auto;
+}
+.textname1{
+    font-family: 'Pridi', serif;
+    font-size: 25px;
+    font-weight:600;
+    margin-top: 25px;
+}
+.textname2{
+    font-family: 'Pridi', serif;
+    font-size: 25px;
+    margin-left: 5px;
+}
+.textname2::first-letter {
+    font-size: 200%;
+    color: rgb(52,105,123);
+}
+.textname3{
+    font-family: 'Pridi', serif;
+    font-size: 16px;
+    font-weight:600;
+}
+.textname4{
+    font-family: 'Pridi', serif;
+    font-size: 16px;
+    margin-left: 5px;
+}
+.textname5{
+    font-family: 'Pridi', serif;
+    font-size: 16px;
+    font-weight:600;
+}
+.textname6{
+    font-family: 'Pridi', serif;
+    font-size: 16px;
+    margin-left: 5px;
+}
+.textname7{
+    font-family: 'Pridi', serif;
+    font-size: 16px;
+    font-weight:600;
+}
+.textname8{
+    font-family: 'Pridi', serif;
+    font-size: 16px;
+    margin-left: 5px;
+}
+.line{
+    height: 15px;
+    background-color: rgb(253,152,134);
+}
+.left{
+    background-color: rgb(255, 255, 255);
+}
+.text1{
+    background-color: rgb(52,105,123);
+    color: white;
+    text-align: center;
+    font-family: 'Pridi', serif;
+    font-size: 18px;
+    font-weight: 550;
+}
+.text2{
+    font-family: 'Pridi', serif;
+    font-size: 16px;
+    font-weight: lighter;
+}
+.text3{
+    font-family: 'Pridi', serif;
+    font-size: 16px;
+    font-weight: lighter;
+}
+.text4{
+    font-family: 'Pridi', serif;
+    font-size: 16px;
+    font-weight: lighter;
+}
+.text5{
+    background-color: rgb(193,193,195);
+    color: rgb(8, 8, 8);
+    text-align: center;
+    font-family: 'Pridi', serif;
+    font-size: 18px;
+    font-weight: 550;
+    margin-top: 20px;
+}
+.text6{
+    font-family: 'Pridi', serif;
+    font-size: 16px;
+    font-weight: lighter;
+}
+.text7{
+    background-color: rgb(224,174,163);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Pridi', serif;
+    font-size: 18px;
+    font-weight: 550;
+    margin-top: 20px;
+}
+.text8{
+    font-family: 'Pridi', serif;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+.text9{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Pridi', serif;
+    font-size: 18px;
+    font-weight: 550;
+}
+.text10{
+    background-color: rgb(234,198,200);
+    color: rgb(0, 0, 0);
+    font-family: 'Pridi', serif;
+    font-weight: bolder;
+    font-size: 16px;
+    font-weight: 550;
+}
+.text11{
+    background-color: rgb(234,198,200);
+    color: rgb(0, 0, 0);
+    font-family: 'Pridi', serif;
+    font-weight: bolder;
+    font-size: 16px;
+    font-weight: 550;
+}
+.lang{
+    background-color: rgb(234,198,200);
+}
+.text12{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Pridi', serif;
+    font-size: 18px;
+    font-weight: 550;
+    margin-top: 10px;
+}
+.text13{
+    background-color: rgb(173,122,109);
+    color: rgb(255, 251, 251);
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 18px;
+    font-weight: 550;
+    margin-top: 10px;
+}
+.text14{
+    background-color: rgb(211,170,139);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 18px;
+    font-weight: 550;
+    margin-top: 10px;
+}
+.text15{
+    background-color: rgb(90,72,90);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Pridi', serif;
+    font-size: 18px;
+    font-weight: 550;
+    margin-top: 10px;
+}
+.text16{
+    background-color: rgb(220,177,145);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Pridi', serif;
+    font-size: 18px;
+    font-weight: 550;
+    margin-top: 10px;
+}
+.imgdiv{
+    margin-bottom: 5px;
+    text-align: center;
+}
+.text17{
+    background-color: rgb(119, 62, 105);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Pridi', serif;
+    font-size: 18px;
+    font-weight: 550;
+    margin-top: 26px;
+}
+.text18{
+    margin-top: 60px;
+    color: rgb(163, 96, 96);
+    margin-left: auto;
+    font-family: 'Pattaya', sans-serif;
+    font-size: 34px;
+    font-weight: 550;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
+.text19{
+    color: rgb(238, 180, 141);
+    margin-left: auto;
+    font-family: 'Pattaya', sans-serif;
+    font-size: 34px;
+    font-weight: 550;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em
+}
